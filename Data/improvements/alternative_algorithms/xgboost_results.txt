@@ -1,0 +1,25 @@
+XGBoost ECG Classification Results
+============================================================
+
+Dataset: Normal&LBBB
+Accuracy:  33.67%
+Precision: 11.34%
+Recall:    33.67%
+F1-Score:  16.96%
+
+Confusion Matrix:
+[[200   0]
+ [394   0]]
+============================================================
+
+Dataset: Normal&RBBB
+Accuracy:  99.00%
+Precision: 99.02%
+Recall:    99.00%
+F1-Score:  99.00%
+
+Confusion Matrix:
+[[196   4]
+ [  0 200]]
+============================================================
+

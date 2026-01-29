@@ -1,0 +1,25 @@
+Combined Features ECG Classification Results
+============================================================
+
+Dataset: Normal&LBBB
+Accuracy:  89.39%
+Precision: 91.93%
+Recall:    89.39%
+F1-Score:  89.65%
+
+Confusion Matrix:
+[[200   0]
+ [ 63 331]]
+============================================================
+
+Dataset: Normal&RBBB
+Accuracy:  50.00%
+Precision: 25.00%
+Recall:    50.00%
+F1-Score:  33.33%
+
+Confusion Matrix:
+[[200   0]
+ [200   0]]
+============================================================
+

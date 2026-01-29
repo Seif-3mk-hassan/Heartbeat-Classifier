@@ -1,0 +1,25 @@
+SVM ECG Classification Results
+============================================================
+
+Dataset: Normal&LBBB
+Accuracy:  81.48%
+Precision: 88.05%
+Recall:    81.48%
+F1-Score:  81.98%
+
+Confusion Matrix:
+[[200   0]
+ [110 284]]
+============================================================
+
+Dataset: Normal&RBBB
+Accuracy:  62.50%
+Precision: 69.53%
+Recall:    62.50%
+F1-Score:  58.79%
+
+Confusion Matrix:
+[[185  15]
+ [135  65]]
+============================================================
+
